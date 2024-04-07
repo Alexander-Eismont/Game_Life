@@ -1,0 +1,1 @@
+This repository contains the final work as part of the C++ developer training at the Netology online school

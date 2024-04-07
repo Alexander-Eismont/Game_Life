@@ -1,0 +1,14 @@
+Debug/
+x64/
+.vs/
+.vscode/
+build*/
+bin*/
+lesson*/**/.gitignore
+
+.sln
+.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.json
+CMakeLists.txt.user
